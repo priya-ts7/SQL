@@ -1,7 +1,7 @@
 # SQL
 
 This repository comprises a set of SQL exercises implemented in the MySQL database. 
-The database used here is the 'Sample Employees Database'. That can be found [here](https://dev.mysql.com/doc/employee/en/).
+The database used here is the 'Sample Employees Database'. The database can be found [here](https://dev.mysql.com/doc/employee/en/).
 
 The following is the description of the files in the repository:
 
