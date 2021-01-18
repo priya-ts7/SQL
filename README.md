@@ -11,11 +11,11 @@ The following is the description of the files in the repository:
 
 2) Data Manipulation Language 
       
-      a) employees - Illustrates the use of clauses like ORDER BY, GROUP BY, HAVING
-      b) joins - Implements INNER JOIN, RIGHT JOIN, LEFT JOIN, CROSS JOIN and joining multiple tables and uses aggregate functions.
-      c) subqueries - Implents complex nested queries.
-      d) views - Creates a virtual table, whose contents are retrieved from an existing base table.
-      e) stored_procedure - Implements non-parametric and parametric routines.
-      f) function - Implementation of the second type of stored routine.
+      a) employees - Illustrates the use of clauses like ORDER BY, GROUP BY, HAVING <br/>
+      b) joins - Implements INNER JOIN, RIGHT JOIN, LEFT JOIN, CROSS JOIN and joining multiple tables and uses aggregate functions.<br/>
+      c) subqueries - Implents complex nested queries.<br/>
+      d) views - Creates a virtual table, whose contents are retrieved from an existing base table.<br/>
+      e) stored_procedure - Implements non-parametric and parametric routines.<br/>
+      f) function - Implementation of the second type of stored routine.<br/>
       g) triggers - Implements 'BEFORE INSERT' and 'AFTER INSERT' triggers.
       
